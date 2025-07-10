@@ -28,9 +28,9 @@ The objective of this task is to perform **network reconnaissance** on a local n
 
 ## 🔍 My Network Info
 
-- **Local IP:** `192.168.64.xxx`  
-- **Network Range:** `192.168.64.0/24`  
-- **Target IP Selected:** `192.168.xx.xx` (replace with actual IP)
+- **Local IP:** `192.168.154.xxx`  
+- **Network Range:** `192.168.154.0/24`  
+- **Target IP Selected:** `192.168.xxx.xx` (replace with actual IP)
 
 ---
 
@@ -40,4 +40,4 @@ The objective of this task is to perform **network reconnaissance** on a local n
 
 Command used:
 ```bash
-sudo netdiscover -r 192.168.64.0/24
+sudo netdiscover -r 192.168.154.0/24
